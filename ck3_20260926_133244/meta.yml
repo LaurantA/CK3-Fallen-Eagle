@@ -1,0 +1,41 @@
+# Crash Information
+AppName: Crusader Kings III 
+AppVersion: 1.19.0.6 
+SCMBranch: q2-26/fix/dlc_fix 
+SCMCommit: 6b540d23dbb0ae5f6a2ccc155338feabbaf64bbc 
+SCMTimeStamp: "2026-06-02 16:13:11 +0200" 
+DateTime: "2026-09-26 13:32:44 +0200" 
+BuildType: ReleaseLto 
+Platform: Windows 
+Store: steam 
+Architecture: 64-bit 
+OperatingSystem: Windows 11 x86_64 
+SystemLanguage: de 
+CPUModel: Intel(R) Core(TM) i9-14900HX 
+CPUSpeed: 2419 
+CPUPhysicalCores: 24 
+CPULogicalCores: 32 
+SystemMemory: 65088 
+GPUName: NVIDIA RTX 2000 Ada Generation Laptop GPU 
+GPUVendor: nVidia 
+GPUId: 10424 
+GPUDedicatedMemory: 7956 
+LaunchArguments: --continuelastsave --gdpr-compliant --nakama 
+DLC_1: Coronations 
+DLC_2: The Fate of Iberia 
+DLC_3: Tours and Tournaments 
+DLC_4: Elegance of the Empire 
+DLC_5: Roads to Power 
+DLC_6: Legends of the Dead 
+DLC_7: The Northern Lords 
+DLC_8: All Under Heaven 
+DLC_9: Garments of the Holy Roman Empire 
+DLC_10: The Royal Court 
+DLC_11: Legacy of Persia 
+DLC_12: Wandering Nobles 
+DLC_13: Fashion of the Abbasid Court 
+DLC_14: Wards and Wardens 
+Mod_1: The Fallen Eagle 
+Mod_2: Better Barbershop 
+Mod_3: Divine Intervention Cheat Menu 
+Mod_4: Undress 
