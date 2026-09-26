@@ -483,3 +483,4 @@ impassable_mountains = LIST { 11425 11426 11427 11428 11429 11430 12526 12823 12
 impassable_mountains = LIST { 1589 1594 1617 1620 1622 1678 1683 1687 1688 1697 1729 1732 1733 1739 } # Britain
 impassable_mountains = LIST { 2761 2762 2774 2785 2788 2790 2940 2943 2949 2951 2952 2957 2959 2961 } # Swabia, Bavaria, Tyrol
 impassable_mountains = LIST { 3761 } # Selymbria
+impassable_mountains = LIST { 9532 9542 } # removed East Asia: not on provinces.png but were left as normal land
